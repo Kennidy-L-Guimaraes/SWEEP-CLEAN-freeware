@@ -12,7 +12,7 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="64"/>
+        <UsageCount Value="67"/>
       </Unit>
       <Unit>
         <Filename Value="..\units\units.principalsweep.pas"/>
@@ -21,8 +21,10 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Units.PrincipalSweep"/>
-        <CursorPos X="26"/>
-        <UsageCount Value="64"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="67"/>
+        <CursorPos X="37" Y="91"/>
+        <UsageCount Value="67"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
@@ -32,11 +34,10 @@
         <ComponentName Value="F_Notify"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="1"/>
+        <EditorIndex Value="2"/>
         <TopLine Value="46"/>
-        <CursorPos X="17" Y="57"/>
-        <UsageCount Value="55"/>
+        <CursorPos X="24" Y="57"/>
+        <UsageCount Value="58"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
@@ -44,69 +45,14 @@
         <Filename Value="..\units\masterclass.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="Masterclass"/>
-        <EditorIndex Value="2"/>
-        <CursorPos X="7" Y="18"/>
-        <UsageCount Value="47"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="61" Y="31"/>
+        <UsageCount Value="50"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="36" TopLine="17"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="35" TopLine="16"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="34" TopLine="15"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="36" TopLine="15"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="41" Column="17" TopLine="18"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="42" Column="17" TopLine="19"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="44" Column="17" TopLine="21"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="45" Column="17" TopLine="22"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="44" Column="17" TopLine="21"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="46" Column="17" TopLine="22"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="59" Column="35" TopLine="35"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="56" Column="19" TopLine="41"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="68" Column="40" TopLine="45"/>
-      </Position>
-      <Position>
-        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
-        <Caret Line="64" Column="51" TopLine="37"/>
-      </Position>
       <Position>
         <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
         <Caret Line="60" Column="39" TopLine="44"/>
@@ -170,6 +116,62 @@
       <Position>
         <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
         <Caret Line="80" Column="4" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="26" Column="45" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\masterclass.pas"/>
+        <Caret Line="21" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\masterclass.pas"/>
+        <Caret Line="29" Column="7" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\masterclass.pas"/>
+        <Caret Line="33" Column="3" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="69" Column="3" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="44" Column="34" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="77" Column="26" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Column="13"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="9" Column="36"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="79" Column="25" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="94" Column="23" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="100" Column="23" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="81" Column="31" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\masterclass.pas"/>
+        <Caret Line="31" Column="61" TopLine="21"/>
       </Position>
     </JumpHistory>
     <RunParams>

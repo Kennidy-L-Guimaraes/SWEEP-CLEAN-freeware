@@ -6,7 +6,7 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ExtCtrls, StdCtrls,
-  Buttons, units.notify.sweep.lfm;
+  Buttons, units.notify.sweep.lfm, MasterClass;
 
 type
 
@@ -31,6 +31,9 @@ type
     P_Checkeds: TPanel;
     SB_Sweep: TSpeedButton;
     TrayIcon: TTrayIcon;
+    procedure Cbx_FortnightlyChange(Sender: TObject);
+    procedure Cbx_MonthlyChange(Sender: TObject);
+    procedure Cbx_WeeklyChange(Sender: TObject);
     procedure CheckBox2Change(Sender: TObject);
     procedure FormCreate(Sender: TObject);
     procedure L_SWEEPClick(Sender: TObject);
@@ -65,11 +68,27 @@ end;
 procedure TF_SWEEP.SB_SweepClick(Sender: TObject);
 begin
   F_Notify.show;
+
 end;
 
 procedure TF_SWEEP.CheckBox2Change(Sender: TObject);
 begin
 
+end;
+
+procedure TF_SWEEP.Cbx_WeeklyChange(Sender: TObject);
+begin
+  TMasterClass.VerifyCheckBox(Sender);;
+end;
+
+procedure TF_SWEEP.Cbx_FortnightlyChange(Sender: TObject);
+begin
+  TMasterClass.VerifyCheckBox(Sender);;
+end;
+
+procedure TF_SWEEP.Cbx_MonthlyChange(Sender: TObject);
+begin
+  TMasterClass.VerifyCheckBox(Sender);
 end;
 
 procedure TF_SWEEP.FormCreate(Sender: TObject);

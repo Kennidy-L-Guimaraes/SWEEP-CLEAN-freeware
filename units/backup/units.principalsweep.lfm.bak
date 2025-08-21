@@ -669,6 +669,7 @@ object F_SWEEP: TF_SWEEP
       Top = 146
       Width = 58
       Caption = 'Weekly'
+      OnChange = Cbx_WeeklyChange
       TabOrder = 2
     end
     object Cbx_Fortnightly: TCheckBox
@@ -678,6 +679,7 @@ object F_SWEEP: TF_SWEEP
       Top = 146
       Width = 78
       Caption = 'Fortnightly'
+      OnChange = Cbx_FortnightlyChange
       TabOrder = 3
     end
     object Cbx_Monthly: TCheckBox
@@ -687,6 +689,7 @@ object F_SWEEP: TF_SWEEP
       Top = 146
       Width = 65
       Caption = 'Monthly'
+      OnChange = Cbx_MonthlyChange
       TabOrder = 4
     end
     object L_Automatic_Scheduled: TLabel
@@ -700,9 +703,9 @@ object F_SWEEP: TF_SWEEP
       ParentFont = False
     end
     object I_LogoSWEEP: TImage
-      Left = 122
+      Left = 128
       Height = 72
-      Top = 16
+      Top = 32
       Width = 96
       Picture.Data = {
         1754506F727461626C654E6574776F726B477261706869637AA8020089504E47
@@ -7786,7 +7789,7 @@ object F_SWEEP: TF_SWEEP
       810000000049454E44AE426082
     }
     Visible = True
-    Left = 232
-    Top = 16
+    Left = 240
+    Top = 32
   end
 end

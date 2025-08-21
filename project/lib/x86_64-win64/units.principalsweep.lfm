@@ -669,6 +669,7 @@ object F_SWEEP: TF_SWEEP
       Top = 146
       Width = 58
       Caption = 'Weekly'
+      OnChange = Cbx_WeeklyChange
       TabOrder = 2
     end
     object Cbx_Fortnightly: TCheckBox
@@ -678,6 +679,7 @@ object F_SWEEP: TF_SWEEP
       Top = 146
       Width = 78
       Caption = 'Fortnightly'
+      OnChange = Cbx_FortnightlyChange
       TabOrder = 3
     end
     object Cbx_Monthly: TCheckBox
@@ -687,6 +689,7 @@ object F_SWEEP: TF_SWEEP
       Top = 146
       Width = 65
       Caption = 'Monthly'
+      OnChange = Cbx_MonthlyChange
       TabOrder = 4
     end
     object L_Automatic_Scheduled: TLabel
