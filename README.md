@@ -62,8 +62,10 @@ You are free to **edit, distribute, and work** with this software, provided you 
 
 ---
 
-## Developer
-- [Kennidy L. Guimarães](https://github.com/Kennidy-L-Guimaraes)  
+## Developer and contributors 
+<a href="https://github.com/Kennidy-L-Guimaraes">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="60px;" alt="Kennidy"/>
+</a>  
 
 ---
 
