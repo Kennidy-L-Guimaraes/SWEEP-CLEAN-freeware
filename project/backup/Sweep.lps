@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Sweep.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="64"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="F_SWEEP"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Units.PrincipalSweep"/>
+        <CursorPos X="26"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="F_Notify"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="46"/>
+        <CursorPos X="17" Y="57"/>
+        <UsageCount Value="55"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\units\masterclass.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Masterclass"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="7" Y="18"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="36" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="35" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="34" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="36" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="41" Column="17" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="42" Column="17" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="44" Column="17" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="45" Column="17" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="44" Column="17" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="46" Column="17" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="59" Column="35" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="56" Column="19" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="68" Column="40" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="64" Column="51" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="60" Column="39" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="42" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="72" Column="62" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="43" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="42" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="67" Column="18" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.principalsweep.pas"/>
+        <Caret Line="69" Column="21" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="31" Column="3" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="44" Column="21" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="46" Column="8" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="55" Column="83" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="9" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="41" Column="24" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="57" Column="14" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="28" Column="34" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="..\units\units.notify.sweep.lfm.pas"/>
+        <Caret Line="80" Column="4" TopLine="59"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
