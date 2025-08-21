@@ -1,0 +1,44 @@
+object F_Notify: TF_Notify
+  Left = 439
+  Height = 87
+  Top = 241
+  Width = 212
+  AlphaBlendValue = 45
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  ClientHeight = 87
+  ClientWidth = 212
+  Color = clNone
+  OnClose = FormClose
+  OnCreate = FormCreate
+  Position = poDesktopCenter
+  LCLVersion = '2.2.6.0'
+  object Btn_Close: TButton
+    Left = 96
+    Height = 25
+    Top = 48
+    Width = 75
+    Caption = 'Cancel'
+    OnClick = Btn_CloseClick
+    TabOrder = 0
+  end
+  object btn_yes: TButton
+    Left = 8
+    Height = 25
+    Top = 48
+    Width = 75
+    Caption = 'Yes'
+    OnClick = btn_yesClick
+    TabOrder = 1
+  end
+  object Lbl_Attention: TLabel
+    Left = 8
+    Height = 32
+    Top = 8
+    Width = 216
+    AutoSize = False
+    Caption = 'This will erase all data in the selected folders. Do you wish to continue?'
+    ParentColor = False
+    WordWrap = True
+  end
+end
